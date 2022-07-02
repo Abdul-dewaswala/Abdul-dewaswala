@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abdul-dewaswala
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Electron JS
 - 💞️ I’m looking to collaborate on Web Development project
 - 📫 How to reach me contact no : +91-9630044872
 
