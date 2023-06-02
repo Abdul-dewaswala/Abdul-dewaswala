@@ -13,6 +13,13 @@
 
 - 📄 Know about my experiences [www.dewaswala.com](https://dewaswala.com/)
 
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a> -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abdul_dewaswala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdul_dewaswala" height="30" width="40" /></a>
@@ -26,7 +33,3 @@
 <!-- <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-dewaswala" alt="abdul-quadir-dewaswala-86845b114"/>
 </p> -->
-
-
-
-
