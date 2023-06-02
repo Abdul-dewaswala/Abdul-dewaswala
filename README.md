@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdul Quadir Dewaswala</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdul-dewaswala&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="abdul-quadir-dewaswala-86845b114"/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-dewaswala&theme=default&hide_border=false" alt="abdul-quadir-dewaswala-86845b114"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-dewaswala&theme=default&hide_border=false" alt="abdul-quadir-dewaswala-86845b114" style="margin-top:20px"/>
 
+</p>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-dewaswala&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <p align="left">
