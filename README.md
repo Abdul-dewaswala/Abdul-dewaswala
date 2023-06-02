@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 
- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-dewaswala&theme=default&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdul-dewaswala&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>|
+ | <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-dewaswala&theme=default&hide_border=true" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdul-dewaswala&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>|
 | ------------- | ------------- |
 
 - 🌱 I’m currently learning **React Native**
