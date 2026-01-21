@@ -7,10 +7,16 @@
   Full-Stack Developer • Laravel • Node.js • React • Next.js • NestJS • Electron/Tauri
 </p>
 
+<p align="center">
+  <a href="https://dewaswala.com/">Website</a> •
+  <a href="mailto:abduldewaswala@gmail.com">Email</a>
+</p>
+
+
 ---
 
 ## 👨‍💻 About Me
-- Full-Stack Developer at **Shanti Infosoft LLP**
+- I am a Full-Stack Developer
 - I build web apps, SaaS products, and modern tools with clean architecture
 - Currently working a lot with **Laravel + React**, **NestJS**, and **Tauri**
 - Exploring product building under the **Lumin** ecosystem (LuminERP, Lyzi.in, and more)
