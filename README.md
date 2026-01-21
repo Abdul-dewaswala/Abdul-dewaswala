@@ -32,8 +32,6 @@
 - **Lyzi.in** — URL shortener platform  
 - **Time Tracker (Tauri)** — productivity tracking + screenshot + reports (in progress)  
 
-> Want a pinned-project layout? Add your best repos under your GitHub profile "Pinned".
-
 ---
 
 ## 📌 What I’m focusing on
